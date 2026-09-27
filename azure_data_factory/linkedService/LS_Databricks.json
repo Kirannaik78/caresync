@@ -12,7 +12,8 @@
 					"type": "LinkedServiceReference"
 				},
 				"secretName": "databricks-token"
-			}
+			},
+			"existingClusterId": "0822-031154-a99aq9ia"
 		}
 	}
 }
